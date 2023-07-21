@@ -5,6 +5,11 @@
    Use data analysis and visualization to identify trends, patterns, and insights which can be used to optimize sales strategies and 
    improve profitability.
 
+
+# Dashboard 
+
+![PB1](https://github.com/sadafchandnisidd/My-First-Power_Bi-Project/assets/121816441/8b2a699a-8784-49d4-a13e-176350da618e)
+
 # Insights:  
   1.Standard class is favourite among customers.
   2.West region is highest profitable.
@@ -18,7 +23,3 @@
       3.Storage in Office Supplies
   To increase sales in South and Central region, we can give more discounts and offers.
 
-# Dashboard 
-
-  
-![PB1](https://github.com/sadafchandnisidd/My-First-Power_Bi-Project/assets/121816441/8b2a699a-8784-49d4-a13e-176350da618e)
