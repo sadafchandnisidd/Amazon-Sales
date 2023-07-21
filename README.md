@@ -17,3 +17,8 @@
       2.Chairs in Furniture
       3.Storage in Office Supplies
   To increase sales in South and Central region, we can give more discounts and offers.
+
+# Dashboard 
+
+  
+![PB1](https://github.com/sadafchandnisidd/My-First-Power_Bi-Project/assets/121816441/8b2a699a-8784-49d4-a13e-176350da618e)
