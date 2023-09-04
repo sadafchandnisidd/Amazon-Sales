@@ -21,9 +21,9 @@
 # Recommendation: 
    We can increase product for highest subcategory for each category
    
-      1. Phones in Technology
-      2. Chairs in Furniture
-      3. Storage in Office Supplies
+      1. Phones in Technology.
+      2. Chairs in Furniture.
+      3. Storage in Office Supplies.
       
   To increase sales in South and Central region, we can give more discounts and offers.
 
